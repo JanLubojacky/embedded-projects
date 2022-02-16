@@ -1,2 +1,2 @@
 # embedded-projects
-Projects for embedded devices/microcontrollers
+My projects for embedded devices/microcontrollers for university and otherwise
